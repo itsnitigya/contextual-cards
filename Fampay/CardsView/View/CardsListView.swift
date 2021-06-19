@@ -75,7 +75,7 @@ struct CardListView: View {
                             Image(uiImage: UIImage.init(named: "profile")!)
                                 .resizable()
                                 .frame(width: 40.0, height: 40.0)
-                                .padding(.init(top: 5, leading: 20, bottom: 5, trailing: 0))
+                                .padding(.init(top: 5, leading: 10, bottom: 5, trailing: 0))
                             
                             Text("Small card")
                                 .lineLimit(1)
@@ -99,7 +99,7 @@ struct CardListView: View {
                             Image(uiImage: UIImage.init(named: "arya_dp")!)
                                 .resizable()
                                 .frame(width: 40.0, height: 40.0)
-                                .padding(.init(top: 5, leading: 20, bottom: 5, trailing: 0))
+                                .padding(.init(top: 5, leading: 10, bottom: 5, trailing: 0))
                             
                             VStack {
                                 Text("Small card")
@@ -154,7 +154,7 @@ struct CardListView: View {
                                 Image(uiImage: UIImage.init(named: "profile")!)
                                     .resizable()
                                     .frame(width: 40.0, height: 40.0)
-                                    .padding(.init(top: 5, leading: 20, bottom: 5, trailing: 0))
+                                    .padding(.init(top: 5, leading: 10, bottom: 5, trailing: 0))
                                 
                                 Text("Small card with arrow")
                                     .lineLimit(1)
@@ -178,7 +178,7 @@ struct CardListView: View {
                                 Image(uiImage: UIImage.init(named: "arya_dp")!)
                                     .resizable()
                                     .frame(width: 40.0, height: 40.0)
-                                    .padding(.init(top: 5, leading: 20, bottom: 5, trailing: 0))
+                                    .padding(.init(top: 5, leading: 10, bottom: 5, trailing: 0))
                                 
                                 VStack {
                                     Text("Small display card")
@@ -404,7 +404,7 @@ struct CardListView: View {
                         Image(uiImage: UIImage.init(systemName: "chevron.forward")!)
                             .resizable()
                             .frame(width: 12.0, height: 16.0)
-                            .padding(.init(top: 0, leading: 80, bottom: 0, trailing: 0))
+                            .padding(.init(top: 0, leading: 40, bottom: 0, trailing: 0))
                         
  
                     }
