@@ -38,10 +38,11 @@ First          |  Second
 
  No internet connection          |  Data recieved is null or not in format. 
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40539705/122651793-cf4a1c80-d158-11eb-81c7-b5737f549400.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122651803-db35de80-d158-11eb-952f-278594da8730.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/40539705/122654780-52746e00-d16b-11eb-9b27-bcc42f1b9ebb.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122654784-57d1b880-d16b-11eb-9db7-c59760f77b5d.PNG" width="300" height="600" />
 
 ### Loading State
 
-<img src="https://user-images.githubusercontent.com/40539705/122651826-fc96ca80-d158-11eb-8664-c80b31b687fe.png" width="300" height="600" /> 
+<img src="https://user-images.githubusercontent.com/40539705/122654775-4a1c3300-d16b-11eb-952e-d4b8573ae3d2.PNG" width="300" height="600" /> 
+
 
 
