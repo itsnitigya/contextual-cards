@@ -269,7 +269,7 @@ struct CardListView: View {
                                 .frame(width: 150, height: 42, alignment:  .center)
                                 .background(Color.black)
                                 .cornerRadius(6)
-                                .padding(.init(top: 0, leading: -60, bottom: 20, trailing: 0))
+                                .padding(.init(top: 0, leading: -55, bottom: 20, trailing: 0))
                         }
                         //poster
                     }.padding(.init(top: 5, leading: 0, bottom: 20, trailing: 20)).frame(maxWidth: UIScreen.main.bounds.width - 20, maxHeight: .infinity, alignment: .center)
