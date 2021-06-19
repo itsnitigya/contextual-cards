@@ -8,18 +8,15 @@ Taken on iPhone 12 Pro Max running iOS 14.5
 
 ### UI
 
-Solarized dark             |  Solarized Ocean
+First          |  Second
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40539705/122651762-a4f85f00-d158-11eb-86f9-3af436d315e1.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122651771-afb2f400-d158-11eb-93e5-aa2525b7ac49.PNG" width="300" height="600" />
 
-<img src="https://user-images.githubusercontent.com/40539705/122651762-a4f85f00-d158-11eb-86f9-3af436d315e1.PNG" width="300" height="600" />
-<img src="https://user-images.githubusercontent.com/40539705/122651771-afb2f400-d158-11eb-93e5-aa2525b7ac49.PNG" width="300" height="600" />
-
 ### Dark Mode
 
-![IMG_1859](https://user-images.githubusercontent.com/40539705/122651778-be99a680-d158-11eb-8a4b-4ed153b8b24e.PNG)
-![IMG_1860](https://user-images.githubusercontent.com/40539705/122651781-c35e5a80-d158-11eb-868e-7d72451ff4c6.PNG)
-
+First          |  Second
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/40539705/122651778-be99a680-d158-11eb-8a4b-4ed153b8b24e.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122651781-c35e5a80-d158-11eb-868e-7d72451ff4c6.PNG" width="300" height="600" />
 
 ### Error Handling
 
