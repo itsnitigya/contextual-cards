@@ -26,13 +26,13 @@ Taken on iPhone 12 Pro Max running iOS 14.5
 
 First          |  Second
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40539705/122652293-b0995500-d15b-11eb-97a7-718323b0982c.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122652295-b3944580-d15b-11eb-9494-f898579703b2.PNG" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/40539705/122654808-864f9380-d16b-11eb-979c-8e47befa1702.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122654810-88b1ed80-d16b-11eb-937c-50eeb473300a.PNG" width="300" height="600" />
 
 ### Dark Mode
 
 First          |  Second
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40539705/122652297-b858f980-d15b-11eb-8534-0ad7f09f50dc.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122652298-babb5380-d15b-11eb-8e64-843d5a2009b1.PNG" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/40539705/122654814-8e0f3800-d16b-11eb-93be-831cbeb28adf.PNG" width="300" height="600" /> | <img src="https://user-images.githubusercontent.com/40539705/122654817-90719200-d16b-11eb-91f8-530b147b1b8c.PNG" width="300" height="600" />
 
 ### Error Handling
 
