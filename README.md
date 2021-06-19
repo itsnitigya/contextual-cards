@@ -14,7 +14,7 @@ open Fampay.xcodeproj
 
 I couldn't extend this to all the cards due to time-crunch. 
 
-<img src="https://user-images.githubusercontent.com/40539705/122656452-35926780-d178-11eb-990b-a4b4d807e90b.png" width="600" height="600" />
+<img src="https://user-images.githubusercontent.com/40539705/122656452-35926780-d178-11eb-990b-a4b4d807e90b.png" width="800" height="600" />
 
 ## Screen Recording
 
