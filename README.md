@@ -12,11 +12,7 @@ open Fampay.xcodeproj
 
 ## Screen Recording
 
-
-<img src="https://user-images.githubusercontent.com/40539705/122652487-cce9c180-d15c-11eb-9e00-b404198a1dc5.mp4" width="300" height="600" />
-
-
-
+<img src="https://user-images.githubusercontent.com/40539705/122654885-ee05de80-d16b-11eb-95a1-97608163e3f1.mp4" width="300" height="600" />
 
 ## Screenshots
 
