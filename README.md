@@ -10,4 +10,4 @@ Taken on iPhone 12 Pro Max running iOS 14.5
 
 ### Error Handling
 
-### Loading States
+### Loading State
