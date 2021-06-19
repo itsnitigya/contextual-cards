@@ -10,6 +10,10 @@
 import Foundation
 import Combine
 
+// Tranforms a url request to a publisher which can be subscribed.
+// Using functional programming to convert the data.
+// Publisher to AnyPublisher so subscribers don't have to know about the implementaton from upstream.
+// Recieve the data on main queue so that UI changes are done on the main queue. 
 struct Agent {
     func run<T: Decodable>(_ request: URLRequest) -> AnyPublisher<T, Error> {
         return URLSession.shared

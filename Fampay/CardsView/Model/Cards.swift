@@ -10,16 +10,40 @@ import Foundation
 
 // MARK: - DTOs
 
-struct CardDTO: Codable {
-    let name: String
-    let design_type: DesignType
-    var is_scrollable: Bool = false
-}
-
-
 struct ResultDTO<T: Codable>: Codable {
     let results: [T]
 }
+
+struct CardDTO: Codable {
+    let name: String
+    let design_type: DesignType
+    let cards: [CardDetailDTO]
+    var is_scrollable: Bool = false
+}
+
+struct CardDetailDTO : Codable {
+    let bg_color: String?
+//    let formatted_title: FormattedTitle
+//    let cta : [CtaDTO]
+}
+
+struct FormattedTitle : Codable {
+    let text: String
+    let entities: [Entity]?
+}
+
+struct Entity : Codable {
+    let text: String
+    let type: String
+    let collor: String
+}
+
+struct CtaDTO : Codable {
+    let text: String
+    let bg_color: String
+    let text_color: String
+}
+
 
 public enum DesignType: String, Codable, Hashable {
     // Small display card.
