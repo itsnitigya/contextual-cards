@@ -47,5 +47,5 @@ First          |  Second
 <img src="https://user-images.githubusercontent.com/40539705/122654775-4a1c3300-d16b-11eb-952e-d4b8573ae3d2.PNG" width="300" height="600" /> 
 
 ## Screenshots and videos in correct dimension and higher-def.
-(Drive Link)[https://drive.google.com/drive/folders/1M3SvPHtStPlXOrZ2kby38ULkEj7UpZQ3]
+[Drive Link](https://drive.google.com/drive/folders/1M3SvPHtStPlXOrZ2kby38ULkEj7UpZQ3)
 
