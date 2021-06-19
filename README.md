@@ -10,6 +10,13 @@ cd ios-task
 open Fampay.xcodeproj
 ```
 
+## MVVM Architecture
+
+I couldn't extend this to all the cards due to time-crunch. 
+
+![carbon](https://user-images.githubusercontent.com/40539705/122656452-35926780-d178-11eb-990b-a4b4d807e90b.png)
+
+
 ## Screen Recording
 
 <img src="https://user-images.githubusercontent.com/40539705/122654885-ee05de80-d16b-11eb-95a1-97608163e3f1.mp4" width="300" height="600" />
