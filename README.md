@@ -12,7 +12,7 @@ open Fampay.xcodeproj
 
 ## MVVM Architecture
 
-I couldn't extend this to all the cards due to time-crunch. 
+I couldn't extend this to all the cards and properties due to time-crunch. 
 
 <img src="https://user-images.githubusercontent.com/40539705/122656452-35926780-d178-11eb-990b-a4b4d807e90b.png" width="800" height="800" />
 
