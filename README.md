@@ -2,6 +2,14 @@
 
 Written in Swift 5, Combine and SwiftUI.
 
+## Run
+
+``` bash
+git clone https://github.com/itsnitigya/ios-task
+cd ios-task
+open Fampay.xcodeproj
+```
+
 ## Screenshots
 
 Taken on iPhone 12 Pro Max running iOS 14.5
