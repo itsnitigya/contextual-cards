@@ -1,4 +1,4 @@
-## Fampay iOS Task
+## FamPay iOS Task
 
 Written in Swift 5, Combine and SwiftUI.
 
