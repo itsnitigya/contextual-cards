@@ -9,7 +9,7 @@ Taken on iPhone 12 Pro Max running iOS 14.5
 ### UI
 
 <img src="https://user-images.githubusercontent.com/40539705/122651762-a4f85f00-d158-11eb-86f9-3af436d315e1.PNG" width="300" height="600" />
-![IMG_1862](https://user-images.githubusercontent.com/40539705/122651771-afb2f400-d158-11eb-93e5-aa2525b7ac49.PNG)
+<img src="https://user-images.githubusercontent.com/40539705/122651771-afb2f400-d158-11eb-93e5-aa2525b7ac49.PNG" width="300" height="600" />
 
 ### Dark Mode
 
