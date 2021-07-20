@@ -5,7 +5,7 @@ Written in Swift 5, Combine and SwiftUI.
 ## Run
 
 ``` bash
-git clone https://github.com/itsnitigya/ios-task
+git clone https://github.com/itsnitigya/contextual-cards
 cd ios-task
 open Fampay.xcodeproj
 ```
