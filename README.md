@@ -1,4 +1,4 @@
-## FamPay iOS Task
+## MVVM and Combine 
 
 Written in Swift 5, Combine and SwiftUI.
 
@@ -12,8 +12,6 @@ open Fampay.xcodeproj
 
 ## MVVM Architecture
 
-I couldn't extend this to all the cards and properties due to time-crunch. 
-
 <img src="https://user-images.githubusercontent.com/40539705/122656452-35926780-d178-11eb-990b-a4b4d807e90b.png" width="800" height="800" />
 
 ## Screen Recording
@@ -22,7 +20,7 @@ I couldn't extend this to all the cards and properties due to time-crunch.
 
 ## Screenshots
 
-Taken on iPhone 12 Pro Max running iOS 14.5
+Taken on iPhone 12 Pro Max running iOS 14.5.
 
 ### UI
 
@@ -45,7 +43,3 @@ First          |  Second
 ### Loading State
 
 <img src="https://user-images.githubusercontent.com/40539705/122654775-4a1c3300-d16b-11eb-952e-d4b8573ae3d2.PNG" width="300" height="600" /> 
-
-## Screenshots and videos in correct dimension and higher-def.
-[Drive Link](https://drive.google.com/drive/folders/1M3SvPHtStPlXOrZ2kby38ULkEj7UpZQ3)
-
